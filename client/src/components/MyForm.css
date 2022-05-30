@@ -1,0 +1,56 @@
+.myform{
+    max-width: 900px;
+    margin:5px;
+    border:1px solid gray;
+    border-radius:5px;
+    padding:5px;
+}
+input:not(input[type="submit"]){
+    margin:3px;
+    padding:5px;
+    min-width:300px;
+    line-height:3rem;
+}
+span{
+    position: relative;
+}
+.kotelezo{
+    position: absolute;
+    top: 0px;
+    right:10px;
+    color:red;
+}
+select,option{
+    margin:3px;
+    padding:5px;
+    min-width:100px;
+    line-height:3rem;
+}
+.lakcim{
+    min-width: 300px;
+}
+form p{
+    color:red;
+}
+/*input[type="submit"]{
+    display:block;
+    box-sizing: border-box;
+    width:80%;
+    font-size:2rem;
+    margin:5px;
+}*/
+.mySubmit{
+    display:flex;
+    justify-content:center;
+    margin-top: 1rem;
+}
+input[type="submit"]{
+    display:block;
+    padding:5px;
+    min-width:300px;
+    line-height:3rem;
+    font-size:2rem;
+}
+.msg{
+    color:red;
+}

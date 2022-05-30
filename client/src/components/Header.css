@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Outline&display=swap');
+h1{
+    color:#1976d2;
+    text-align: center;
+    padding-top:2rem;
+    font-family: 'Londrina Outline', cursive;
+    font-size: 3rem;
+}
+h1 div{
+    font-size:2rem;
+}
+p{
+    max-width: 30rem;
+    margin:0 auto;
+    text-align:justify;
+    line-height:2rem;
+    font-style: italic;
+    font-size: 1.5rem;
+    text-indent: 1rem;
+    
+}

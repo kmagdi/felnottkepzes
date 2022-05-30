@@ -1,0 +1,23 @@
+
+.myCard{
+    margin-bottom: 1rem;
+   
+}
+.myFont{
+    font-size: 1.8rem!important;
+}
+
+@media (min-width: 360px){
+.row{
+    margin:1rem;
+}
+}
+@media (max-width: 360px){
+    .row{
+        padding-left:0;
+        margin:0 auto;
+    }
+}
+.myCardHeader{
+    height: 100px;
+}

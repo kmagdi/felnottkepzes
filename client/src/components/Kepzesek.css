@@ -1,0 +1,20 @@
+
+.items{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+#agazatok{
+    padding-bottom: 3px;
+}
+.all h3{
+    margin:0;
+}
+
+#tanfolyam-list{
+    margin-top:50px;
+}
+
+.material-icons{
+    font-size:3rem;
+}
